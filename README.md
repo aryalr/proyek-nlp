@@ -85,4 +85,4 @@ Lalu tekan `ctrl+shift+p` -> ketik: `Pyton: Select Interpreter` pilih `Python 3.
 ## Done
 Sekarang anda bisa menjalankan `.ipynb` langsung didalam vscode dengan environment yang terisolasi dan menggunakan kernel dari jupyter.
 
-![gif keren sekali](assets/Tech Coding GIF by Persona.gif)
+![gif keren sekali](assets/Tech_Coding_GIF_by_Persona.gif)
