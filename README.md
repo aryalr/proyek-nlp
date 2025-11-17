@@ -50,7 +50,7 @@ atau
 (env) username@DEKSTOP:~/path/to/project$
 ```
 
-## Install requierements.txt dan Rigister Environment ke Jupyter
+## Langkah 3: Install requierements.txt dan Rigister Environment ke Jupyter
 
 install requirements library yang diperlukan dengan menjalankan:
 
@@ -73,7 +73,7 @@ Catatan:
 | --name=env     | nama root kernel, bisa diubah sesuai nama venv masing masing atau terserah |
 | --display-name | nama proyek yang sedang dijalankan, bisa diganti sesuai keinginan          |
 
-## Setup VSCode
+## Langkah 4: Setup VSCode
 
 Buka VSCode di dalam remote wsl lalu install ekstensi:
 
